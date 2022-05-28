@@ -1,0 +1,4 @@
+fio : SOV
+age : 33
+pets : 0
+salary :1000
