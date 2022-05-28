@@ -1,0 +1,5 @@
+favorite_film : duna
+series : the solders
+favorite_food : meat
+favorite_season : summer
+country : usa

@@ -1,0 +1,5 @@
+first : basic_teory
+second : deep_teory
+third : practice
+fourth : more_practice
+another : lot_of_information
