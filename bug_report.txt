@@ -1,1 +1,10 @@
-
+Bug_id : 14
+Title : Widgets has no white dotted line at any size
+Severity : major
+Priority : high
+Environment : Redmi Note 7 Android 10QKQ1
+Precondition : Clear screen
+Steps : 1. Add several widgets, 2. Change size some widgets
+Actual_Result : Widgets don't have dotted lines
+Expected_Result : Widgets have a dotted line on all 4 sides
+File : bug_14.jpg
